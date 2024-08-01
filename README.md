@@ -1,3 +1,36 @@
+# NewsMonk
+
+NewsMonk is a news website that fetches daily news from an API and displays it to the users in an easy-to-read format. This project aims to provide up-to-date news articles across various categories.
+
+## Features
+
+- Fetches daily news from a reliable news API.
+- Displays news articles in a clean and user-friendly interface.
+- Supports multiple news categories (e.g., technology, sports, politics).
+- Responsive design for mobile and desktop users.
+
+## Installation
+
+### Prerequisites
+
+- Node.js and npm installed on your machine.
+- A valid API key from a news API provider (e.g., NewsAPI).
+
+### Steps
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/NewsMonk.git
+   cd NewsMonk
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
